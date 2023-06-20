@@ -1,7 +1,7 @@
 package org.example;
 
 public class FormDate {
-    String day;
-    String month;
-    String year;
+    public int day;
+    public int month;
+    public int year;
 }
